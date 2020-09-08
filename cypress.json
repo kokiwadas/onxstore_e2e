@@ -1,0 +1,19 @@
+{
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "video": true,
+  "viewportWidth": 2000,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 30000,
+  "pageLoadTimeout": 10000,
+  "waitForAnimations": true,
+  "animationDistanceTreshold": 20,
+  "execTimeout": 60000,
+  "requestTimeout": 30000,
+  "responseTimeout": 15000,
+  "failOnStatusCode": true,
+  "projectId": "hhhu7s",
+  "env": {
+    "API_KEY": "1c93b484252fc45b9bda5e620e4079b3c1d65b2446014c5c18ea3e48adb4e2bc"
+  }
+}
